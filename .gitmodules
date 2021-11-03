@@ -4,4 +4,4 @@
 	branch = irmin.2.7
 [submodule "irmin"]
 	path = irmin
-	url = https://github.com/patricoferris/irmin.git
+	url = https://github.com/jonludlam/irmin.git
